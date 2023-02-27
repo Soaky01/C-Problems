@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1590164029 source:c:\users\ovidiu ciucu\desktop\programe\x si 0 ceva\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+

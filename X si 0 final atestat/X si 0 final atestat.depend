@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1620943342 source:c:\users\ovidiu ciucu\desktop\programe\x si 0 final atestat\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<Windows.h>
+	<conio.h>
+
